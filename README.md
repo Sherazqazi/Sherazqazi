@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sheraz 👋
+React Native Developer · 3.5+ Years · Lahore, Pakistan
 
-<!--
-**Sherazqazi/Sherazqazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+React Native · JavaScript · Firebase · OpenAI API
+WebSocket · Google Maps · Redux Toolkit · REST APIs
 
-Here are some ideas to get you started:
+## 📱 What I Build
+- 🤖 AI Chatbots & Speech-to-Text in mobile apps
+- 📍 Real-time GPS tracking & WebSocket systems
+- 🌐 Multi-language apps (EN/AR/UR) with RTL support
+- 🔥 Firebase real-time pipelines & authentication flows
+- 🗺️ Google Maps live tracking & geolocation features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working At
+BFTech — Lahore, Pakistan (Sep 2022 – Present)
+
+## 📫 Let's Connect
+- LinkedIn: [sherazqazi](https://www.linkedin.com/in/sherazqazi/)
+- Email: qazisheraz2@gmail.com
+- Open to Remote & Relocation ✅
